@@ -1,0 +1,11 @@
+C:\Users\adria\OneDrive\Documents\Niagara College\Fourth semester\Chess\ChessLogic\bin\Debug\net7.0\ChessLogic.deps.json
+C:\Users\adria\OneDrive\Documents\Niagara College\Fourth semester\Chess\ChessLogic\bin\Debug\net7.0\ChessLogic.dll
+C:\Users\adria\OneDrive\Documents\Niagara College\Fourth semester\Chess\ChessLogic\bin\Debug\net7.0\ChessLogic.pdb
+C:\Users\adria\OneDrive\Documents\Niagara College\Fourth semester\Chess\ChessLogic\obj\Debug\net7.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Documents\Niagara College\Fourth semester\Chess\ChessLogic\obj\Debug\net7.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Documents\Niagara College\Fourth semester\Chess\ChessLogic\obj\Debug\net7.0\ChessLogic.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Documents\Niagara College\Fourth semester\Chess\ChessLogic\obj\Debug\net7.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Documents\Niagara College\Fourth semester\Chess\ChessLogic\obj\Debug\net7.0\ChessLogic.dll
+C:\Users\adria\OneDrive\Documents\Niagara College\Fourth semester\Chess\ChessLogic\obj\Debug\net7.0\refint\ChessLogic.dll
+C:\Users\adria\OneDrive\Documents\Niagara College\Fourth semester\Chess\ChessLogic\obj\Debug\net7.0\ChessLogic.pdb
+C:\Users\adria\OneDrive\Documents\Niagara College\Fourth semester\Chess\ChessLogic\obj\Debug\net7.0\ref\ChessLogic.dll
